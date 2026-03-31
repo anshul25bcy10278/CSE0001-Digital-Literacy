@@ -1,4 +1,4 @@
-brief description
+Brief description
 
 Students must produce a single-page visual infographic or slide which demonstrates their understanding of Digital Literacy and its value for student learning. 
 The design requires Canva and Prezi and Miro tools to create simple yet captivating and user-friendly visual presentations.
