@@ -1,6 +1,6 @@
 # CSE0001-Digital-Literacy project
 
-MAME - ANSHUL PATIDAR 
+NAME - ANSHUL PATIDAR 
 
 REG NO.-25BCY10278
 
