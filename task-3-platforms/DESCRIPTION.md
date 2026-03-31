@@ -10,9 +10,13 @@ Platform: Google Forms + Google Sheets (forms.google.com)
 I created a 5-question Digital Literacy Awareness Quiz for batchmates using Google Forms. The form includes multiple choice and short answer question types. https://docs.google.com/forms/d/e/1FAIpQLScOYvBYtGlqX_HpoAi0TE_7tXeT6uzt0OmJ_l8cWJnyLzt4MA/viewform
 Quiz Questions
  Which of the following is an example of a strong password?
+ 
  What does "phishing" refer to?
+ 
  Which of these is the correct way to report a cybercrime in India?
+ 
  Which platform is primarily used by developers to host and share code?
+ 
  In your own words, what does "digital literacy" mean and why does it matter for college students today?
 
 Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeLfXqJ8Ae07xz39tAqaLyw446RC4v1tPlLLLgNn8wPxuhGSA/viewform?usp=dialog
